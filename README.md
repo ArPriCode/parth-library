@@ -2,6 +2,8 @@
 
 A modern, full-stack library management system built with Next.js, TypeScript, and modern web technologies.
 
+HOST LINK: [https://v0-parth-library-website.vercel.app/](https://v0-parth-library-website.vercel.app/)
+
 ## 🚀 Features
 
 - **Modern Stack**: Built with Next.js 15, React 19, and TypeScript
